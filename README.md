@@ -1,5 +1,4 @@
 # Scraping-Daraz
- write this descrption in  better way
 A python program that will scrap products from www.daraz.pk (an online shopping website).
 To use this program run the program and it will ask for a product name so enter a product name and hit enter.
 it will scrap information of all available products with the given product name
